@@ -92,7 +92,7 @@ function App() {
 
   return (
     <main className='app'>
-      <h1>MERN todo list</h1>
+      <h1>FIREBASE todo list</h1>
       <div className='form-input'>
         <input
           type='text'
