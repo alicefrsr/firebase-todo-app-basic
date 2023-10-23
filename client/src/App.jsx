@@ -5,7 +5,6 @@ import {
   query,
   collection,
   addDoc,
-  // getDocs,
   updateDoc,
   deleteDoc,
   doc,

@@ -1,12 +1,5 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from 'firebase/app';
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
-// import firebase from 'firebase/compat/app';
-// // Required for side-effects
-// import 'firebase/firestore';
-
-// do I need the 2 lines above if I have this line?
 import { getFirestore } from 'firebase/firestore';
 
 // My web app's Firebase configuration

@@ -1,6 +1,6 @@
 # Firebase To-do app
 
-> A simple to-do app with server and database.
+> Basic todo app built with Firebase backend.
 
 Built to learn: Firebase
 
